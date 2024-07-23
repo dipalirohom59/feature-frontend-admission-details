@@ -153,3 +153,11 @@ button.btn:disabled {
     cursor: not-allowed;
     /* Not allowed cursor when disabled */
 }
+
+.error-message {
+    color: red;
+    font-size: 1.2rem;
+    /* Adjust size as needed */
+    margin-top: 1px;
+    /* Optional: Provide some space above the error message */
+}
